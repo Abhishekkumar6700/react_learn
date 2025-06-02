@@ -13,6 +13,7 @@ function App() {
         <li>apple</li>
         <li>lichi</li>
         <li>papaya</li>
+        <li>banana</li>
       </ul>
     </>
   )
